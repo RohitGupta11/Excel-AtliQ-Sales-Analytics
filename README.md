@@ -26,3 +26,16 @@ making informed decisions, setting goals, and optimizing sales strategies.
 
 ## Top 5 Countries Net Sales
 - [Top 5 Countries in terms of Net Sales Report](https://github.com/RohitGupta11/Excel-AtliQ-Sales-Analytics/blob/main/Top%205%20country.pdf) - Understand the net sales figures, helping you focus on high-potential markets.
+  ## Technical & Soft Skills:
+  In addition to the reports, I have applied various technical and soft skills to create these analytics reports:
+
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
