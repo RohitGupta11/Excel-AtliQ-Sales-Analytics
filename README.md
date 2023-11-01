@@ -1,5 +1,13 @@
 # Excel-AtliQ-Sales-Analytics
-This repository contains sales and finance analytics reports, designed to empower businesses in monitoring and evaluating their sales activities and financial performance.
+This repository contains sales analytics reports, designed to empower businesses in monitoring and evaluating their sales activities and performance.
+
+
+- **Purpose of sales analytics:** The purpose of sales analytics is to extract valuable insights from sales data to enhance decision-making, increase revenue, and improve overall sales performance.
+
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+
+- **Role of reports:** The role of sales reports is to provide businesses with essential data and insights for tracking performance, 
+making informed decisions, setting goals, and optimizing sales strategies.
 
 ## Customer Sales Performance
 - [Customer Sales Performance Report](https://github.com/RohitGupta11/Excel-AtliQ-Sales-Analytics/blob/main/Customer%20Sales%20performance.pdf) - This report provides insights into customer sales performance, enabling you to identify key trends and opportunities for growth.
