@@ -1,10 +1,10 @@
 # Excel-AtliQ-Sales-Analytics
 This repository contains sales and finance analytics reports, designed to empower businesses in monitoring and evaluating their sales activities and financial performance.
 
-#Customer Sales Performance#
+## Customer Sales Performance#
 Customer Sales Performance Report - This report provides insights into customer sales performance, enabling you to identify key trends and opportunities for growth.
 
-#Market Performance vs Target
+### Market Performance vs Target
 Market Performance vs Target Report - This report offers a comprehensive comparison between market performance and sales targets, aiding in strategic decision-making.
 
 #Top 10 Products
